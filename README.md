@@ -2,7 +2,7 @@
 ## My name is Rafael Santos
 - I have a degree in quality management, seeking to find myself in the field of development.
 - I’m currently learning Java.
-- How to reach me : rafael.sanntos21@outlook.com
+- How to reach me : rafael.santtos21@outlook.com
 
 ## Tolls and Stacks
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /> <img src="" width="40" height="40" />
