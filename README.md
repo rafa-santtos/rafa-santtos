@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Rafael Santos
-- I have a degree in quality management, seeking to find myself in the field of development.
+- I have a degree in quality management, I've previously worked as a QA in Customer Experience, and currently, I'm looking to establish myself in the development field.
 - I’m currently learning Java.
 - How to reach me : rafael.santtos21@outlook.com
 
